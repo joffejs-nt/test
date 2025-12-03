@@ -1,0 +1,11 @@
+{
+  "name": "NT Custom Visualization",
+  "organization": "NinjaTrader",
+  "packageUrl": "index.html",
+  "components": [
+    {
+      "id": "main",
+      "file": "index.js"
+    }
+  ]
+}
