@@ -2,7 +2,7 @@
   "name": "NT Custom Visualization",
   "organization": "NinjaTrader",
   "logoUrl": "logo.png",
-  "packageUrl": "index.html",
+  "packageUrl": "https://joffejs-nt.github.io/visualizations/index.html",
   "components": [
     {
       "id": "main",
